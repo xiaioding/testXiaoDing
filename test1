@@ -1,0 +1,4 @@
+private class test{
+    private string a;
+    private string b;
+}
