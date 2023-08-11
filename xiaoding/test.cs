@@ -6,5 +6,9 @@ namespace xiaoding
         {
             return a + b;
         }
+
+        private int Calculate(int c, int d){
+            return c - d;
+        }
     }
 }
